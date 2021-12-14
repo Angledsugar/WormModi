@@ -21,5 +21,7 @@ pip install pymodi
 
 ### 실행 방법
 $ conda activate modi
+
 $ cd (파일경로)
+
 $ python wormmodi.py
