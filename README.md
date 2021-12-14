@@ -2,6 +2,9 @@
 
 ## 2021 Robot Operating System - Team Project
 
+### Notion
+https://peaceful-shovel-076.notion.site/7f6883837dc746ec8f10e7bbf53d6ba6
+
 ### 프로젝트 참가자
 Chanyeok Choi
 
